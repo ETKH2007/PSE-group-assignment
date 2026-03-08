@@ -8,16 +8,16 @@ Alex Lee Yun – Scrum Master and Documentation Lead
 Evan Teoh – Lead Developer and Tester
 
 ## Project Description
-Notesable is a system that allows users to upload their notes via images, files, PDFs, text notes, and documents. Users can also create notes within the system itself, allowing them to type and save their notes as files that can be shared with others.
+Notesable is a system that allows users to upload their notes via images, files, PDFs, text notes, and documents. 
 
 The system addresses the issue that note-taking is an essential skill for exam success, yet it is rarely formally taught. Many students rely on borrowing notes from friends, which can create inequality for students who lack access to high-quality notes.
 
-Notesable provides a platform where students can share notes and receive ratings and rewards based on quality. This allows students with weaker note-taking skills to access better study materials while rewarding those who contribute useful notes.
+Notesable provides a platform where students can share notes and receive ratings and rewards based on the quality of their notes. This allows students with weaker note-taking skills to access better study materials while rewarding those who contribute useful notes.
 
 ## Target Users
-- Secondary school students who struggle with writing effective notes
-- Secondary school students who lack access to high-quality notes from peers
-- Secondary school tudents who create high-quality notes and want to share them
+- Students who struggle with writing effective notes
+- Students who lack access to high-quality notes from peers
+- Students who create high-quality notes and want to share them for a reward
 
 ## Overview of SDLC Work
 
