@@ -1,0 +1,28 @@
+Test Case Id
+
+Scenario
+Description
+Steps
+TC 001
+Student Login
+Verify student login with valid credentials
+1.    Open the application
+2.    Click on the Student radio button
+3.    Enter a valid Email or ID 
+4.    Enter the correct password
+5.    Click “Continue”
+TC 002
+View saved notes and download them
+View saved notes and download them
+1.    Click on the desired post
+2.    Click the “Download” button  located on the attached notes to download file
+
+TC 003
+Upload Notes
+
+1.    Click the "+ Upload" button in the top navigation bar
+2.    Click "Browse Files To Upload" to select a file
+3.    Select a course from the "Select course" dropdown bar.
+4.    Enter a title for the note
+5.    Enter a subtitle for the note.
+6.    5. Click the “Upload” button. cna i upalod this in testing and if so what do i commit
