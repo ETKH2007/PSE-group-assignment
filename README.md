@@ -18,9 +18,20 @@ Notesable provides a platform where students can share notes and receive ratings
 - Students who struggle with writing effective notes
 - Students who lack access to high-quality notes from peers
 - Students who create high-quality notes and want to share them for a reward
+- Lecturers who act as moderators and administrators of the system by removing inappropriate content
 
 ## Overview of SDLC Work
 
-We followed the **Agile Software Development methodology** using the **Scrum framework**. Our work was organized into four phases across weekly sprints:
-**Planning Stage**  
-The team formed, assigned roles, and selected **SDG 4: Quality Education**. We created the product vision document, identified user stories, created the product backlog, and set up the Trello Kanban board. Functional and non‑functional requirements were documented to guide design and implementation.
+We followed the **Agile Software Development methodology** using the **Scrum framework**. Our work was organized into five phases across weekly sprints:
+The 5 phases were compressed into 2 sprints, with each lasting 1 week
+
+**Planning and Requirements Analysis Stage**  
+Week 1. The team formed, assigned roles, and selected **SDG 4: Quality Education**. We created the product vision document, identified user stories, created the product backlog, and set up the Trello Kanban board. Functional and non‑functional requirements were documented to guide design and implementation.
+
+**Design and Early Prototype Development Stage**
+Week 1. We conducted sprint planning and developed Use Case and Class Diagram drafts. This phase included UI sketches and the creation of an early prototype.
+
+**Testing and Feedback**
+Week 2. We developed an improved prototype and ran tests with users and generated bug reports. We updated and finalised our prototype based off user feedback.
+
+**
